@@ -69,17 +69,20 @@ You've successfully run and modified your React Native App. :partying_face:
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
 # Following is the output of the code
-![Screenshot_2024-05-06-15-38-28-75_c2667a80fb33ad26ba7767df18d5034d](https://github.com/waleed826/ClosetCraft/assets/112548206/a655648c-2faf-4b06-a617-e6ba779777b9)
 
-![Uploading Screenshot_2024-05-06-15-39-19-25_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+![image1](https://github.com/waleed826/ClosetCraft/assets/112548206/3ba04477-2076-47f7-8dec-4ddc3707ea4e)
 
-![Uploading Screenshot_2024-05-06-15-39-27-77_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+![image2](https://github.com/waleed826/ClosetCraft/assets/112548206/48ff3564-4a75-4899-b978-f89aea2b6066)
 
-![Uploading Screenshot_2024-05-06-15-38-41-22_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+![image3](https://github.com/waleed826/ClosetCraft/assets/112548206/23d5facf-dbc8-48b7-b04d-ee25ee4a9d88)
 
-![Uploading Screenshot_2024-05-06-15-38-48-93_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+![image4](https://github.com/waleed826/ClosetCraft/assets/112548206/a502adda-b2e4-4d22-ad0e-70a53f97a614)
 
-![Uploading Screenshot_2024-05-06-15-38-54-60_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+![image5](https://github.com/waleed826/ClosetCraft/assets/112548206/f7fd99cf-7593-4f10-84b9-a4555ba05d0d)
+
+![image6](https://github.com/waleed826/ClosetCraft/assets/112548206/be9ef761-6ee1-4240-9b68-adf5d75408f8)
+
+
 
 # Learn More
 
