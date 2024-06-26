@@ -68,6 +68,19 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
+# Following is the output of the code
+![Screenshot_2024-05-06-15-38-28-75_c2667a80fb33ad26ba7767df18d5034d](https://github.com/waleed826/ClosetCraft/assets/112548206/a655648c-2faf-4b06-a617-e6ba779777b9)
+
+![Uploading Screenshot_2024-05-06-15-39-19-25_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+
+![Uploading Screenshot_2024-05-06-15-39-27-77_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+
+![Uploading Screenshot_2024-05-06-15-38-41-22_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+
+![Uploading Screenshot_2024-05-06-15-38-48-93_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+
+![Uploading Screenshot_2024-05-06-15-38-54-60_c2667a80fb33ad26ba7767df18d5034d.jpg…]()
+
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
